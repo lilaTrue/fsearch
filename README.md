@@ -2,7 +2,25 @@
 
 `fsearch` est un utilitaire en ligne de commande pour Windows, conçu pour trouver des fichiers sur l'ensemble de vos disques durs avec une vitesse maximale. Il tire parti du multi-threading et d'optimisations de bas niveau pour minimiser le temps de recherche, même sur des systèmes avec un grand nombre de fichiers.
 
-![Exemple de sortie de fsearch](https://i.imgur.com/exemple.png)  <!-- Remplacer par une vraie capture d'écran si possible -->
+## Démonstration
+
+Voici quelques captures d'écran et une vidéo montrant `fsearch` en action.
+
+### Animation et Recherche en Cours
+![Animation de la recherche](./media/image/image%201.png)
+
+### Résultats Groupés et Colorés
+![Résultats de la recherche](./media/image/image%202.png)
+
+### Résumé Final
+![Résumé de la recherche](./media/image/image%203.png)
+
+### Vidéo Complète
+Pour une démonstration complète, regardez la vidéo ci-dessous (cliquez pour télécharger/voir) :
+
+[![Aperçu de la vidéo](./media/image/image%201.png)](./media/video/video%201.mp4)
+
+*Note : Pour visionner la vidéo, vous devrez peut-être cloner le dépôt et l'ouvrir localement.*
 
 ## Fonctionnalités
 
