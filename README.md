@@ -6,10 +6,10 @@
 
 Voici quelques captures d'écran et une vidéo montrant `fsearch` en action.
 
-### Animation et Recherche en Cours
+### Indexer votre fichier
 ![Animation de la recherche](./media/image/image%201.png)
 
-### Résultats Groupés et Colorés
+### Animation et Recherche en Cours
 ![Résultats de la recherche](./media/image/image%202.png)
 
 ### Résumé Final
