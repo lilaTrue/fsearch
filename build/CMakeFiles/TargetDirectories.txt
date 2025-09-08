@@ -1,0 +1,3 @@
+C:/Users/Yeliel Gerard/Desktop/saas/fsearch/build/CMakeFiles/fsearch.dir
+C:/Users/Yeliel Gerard/Desktop/saas/fsearch/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yeliel Gerard/Desktop/saas/fsearch/build/CMakeFiles/ZERO_CHECK.dir
